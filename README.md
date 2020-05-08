@@ -1,6 +1,6 @@
 # BookClass
 C++ Class of Book
-
+The assignment was performed by the freshman of Ivan Franko University,Lviv.
 Task :
 Develop a class Book (title, author, number of pages, year of publication, price) using algorithms, perform the following steps: 
 read data about books from a text file into a container; 
